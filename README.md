@@ -2,7 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Askydev&layout=compact)](https://github.com/Askydev/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Askydev)](https://github.com/Askydev/github-readme-stats)
 
 
 <!--
