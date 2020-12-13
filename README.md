@@ -1,6 +1,6 @@
 ### Hi I'm Devashish Sharma 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Askydev&layout=compact)](https://github.com/Askydev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Askydev&layout=compact&theme=dark)](https://github.com/Askydev/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Askydev&show_icons=true&theme=dark)
 
