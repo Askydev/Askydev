@@ -10,10 +10,12 @@
 📴Find Me on:
 
 [<img align="left" alt="devashish.io | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1620286034~hmac=282efc1f62b87a8a99b602c2ee7d5f48" />][instagram]
+[<img align="left" alt="Devashish Sharma | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1620286127~hmac=b4f5c85617b141b8f0e5981faf33ac1c" />][linkedin]
 
 <br />
 
 [instagram]: https://www.instagram.com/devashish.io
+[linkedin]: https://www.linkedin.com/in/askydev08
 
 <!--
 
