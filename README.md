@@ -7,6 +7,13 @@
 ***
 ![Askydev's github stats](https://github-readme-stats.vercel.app/api?username=Askydev&show_icons=true&theme=chartreuse-dark)
 
+📴Find Me on:
+
+[<img align="left" alt="devashish.io | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[instagram]: https://www.instagram.com/devashish.io
 
 <!--
 
