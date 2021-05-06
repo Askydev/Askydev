@@ -7,7 +7,6 @@
 ***
 ![Askydev's github stats](https://github-readme-stats.vercel.app/api?username=Askydev&show_icons=true&theme=chartreuse-dark)
 
-(https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png)(https://www.instagram.com/devashish.io/)
 
 <!--
 
