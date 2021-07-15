@@ -10,7 +10,7 @@
 📴Find Me:
 
 [<img align="left" alt="devashish.io | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" />][instagram]
-[<img align="left" alt="Devashish Sharma | LinkedIn" width="22px" src="<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>" />][linkedin]
+[<img align="left" alt="Devashish Sharma | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 
 <br />
 
