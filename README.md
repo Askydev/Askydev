@@ -14,8 +14,7 @@
 
 <br />
 
-[instagram]: https://www.instagram.com/devashish.io
-[linkedin]: https://www.linkedin.com/in/askydev08
+
 
 <!--
 
